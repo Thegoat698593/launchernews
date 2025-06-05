@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Season 8 Now Live!",
+    "message": "Jump right in & explore!",
+    "date": "2025-06-20",
+    "image": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2019/03/fortnite-lazy-lagoon.jpg",
+    "button": true,
+    "buttonInfo": {
+      "title": "Learn More",
+      "url": "https://example.com/season8"
+    }
+  },
+  {
+    "title": "Challenges are here!",
+    "message": "Sail into new challenges!",
+    "date": "2025-06-25",
+    "image": "https://wallpapercave.com/wp/wp4041004.jpg",
+    "button": true,
+    "buttonInfo": {
+      "title": "Discover Now",
+      "url": "https://example.com/pirate-adventure"
+    }
+  }
+]
