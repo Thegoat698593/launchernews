@@ -20,5 +20,16 @@
       "title": "Discover Now",
       "url": "https://example.com/pirate-adventure"
     }
+  },
+  {
+    "title": "Nexus Premium",
+    "message": "Unlock exclusive cosmetics!",
+    "date": "2025-06-30",
+    "image": "https://wallpapercave.com/wp/wp9374079.jpg",
+    "button": true,
+    "buttonInfo": {
+      "title": "Buy now",
+      "url": "https://example.com/store/pirate-bundle"
+    }
   }
 ]
