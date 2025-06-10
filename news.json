@@ -1,23 +1,23 @@
 [
   {
-    "title": "Season 8 Now Live!",
-    "message": "Jump right in & explore!",
+    "title": "Join Discord",
+    "message": "Join our official discord",
     "date": "2025-06-20",
-    "image": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2019/03/fortnite-lazy-lagoon.jpg",
+    "image": "https://wallpapers.com/images/file/discord-pictures-2e8dzcppopkmx2ko.jpg",
     "button": true,
     "buttonInfo": {
-      "title": "Learn More",
+      "title": "Discord",
       "url": "https://example.com/season8"
     }
   },
   {
-    "title": "Challenges are here!",
-    "message": "Sail into new challenges!",
+    "title": "Season 8",
+    "message": "X Marks The Spot!",
     "date": "2025-06-25",
     "image": "https://wallpapercave.com/wp/wp4041004.jpg",
     "button": true,
     "buttonInfo": {
-      "title": "Discover Now",
+      "title": "Download now",
       "url": "https://example.com/pirate-adventure"
     }
   },
